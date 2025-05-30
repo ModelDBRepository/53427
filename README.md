@@ -5,8 +5,7 @@ See [http://krasnow1.gmu.edu/CENlab/index.html](http://krasnow1.gmu.edu/CENlab/i
 
 This model requires the Genesis extension from chemesis2.0.tar.gz.
 
+## Changelog
 2016-12-19 The URL above to the CENlab was updated.
-
----
 
 2025-05-27 – Standardized to Markdown.
